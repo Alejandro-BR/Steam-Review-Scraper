@@ -28,6 +28,10 @@ Hemos limitado el conjunto de datos a **3000 reseñas** para evitar tiempos de c
 
 ![Matriz](/img/matriz.png)
 
+## **Google Colab**
+
+[Cuaderno jupyter](https://colab.research.google.com/drive/1Fdbp-C1DPgOEyJva96qjIeE1_3KcpLqP?usp=sharing)
+
 ## **Créditos**
 
 Hecho por [**Alejandro Barrionuevo Rosado**](https://github.com/Alejandro-BR) y [**Alvaro López Guerrero**](https://github.com/Alvalogue72).
