@@ -18,11 +18,15 @@ El cual salió el 14 de noviembre de 2025.
 
 ## **Exploración y visualización de los datos**
 
-Hemos limitado el conjunto de datos a **10.000 reseñas** para evitar tiempos de carga largos al descargar los comentarios.
+Hemos limitado el conjunto de datos a **3000 reseñas** para evitar tiempos de carga largos al descargar los comentarios.
 
 ![Distribución de la longitud de las reseñas](/img/distribution_of_review_length.png)
 
 ![Porcentaje de reseñas recomendadas](/img/percentage_of_recommended_reviews.png)
+
+## **Matriz de confusión**
+
+![Matriz](/img/matriz.png)
 
 ## **Créditos**
 
