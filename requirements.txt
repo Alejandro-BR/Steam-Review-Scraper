@@ -3,4 +3,5 @@ pandas
 matplotlib
 seaborn
 requests
-beautifulsoup4
+beautifulsoup4s
+transformers
